@@ -2,7 +2,8 @@ Luck Network
 
 Welcome, to our GitHub and Changelog where we post all of our Weekly Updates Full Changelog to.
 
-Luck Network offers OneBlock - SkyMining - Prisons! Providing a great network experience since 2020.
+☘ Luck Network ☘ ⌬ 1.8 - 1.18 ⌬
+⛏ SkyMining ⛏❏ OneBlock ❏
 
 IP: LuckOneBlock.minehut.gg - LuckMinez.minehut.gg
 

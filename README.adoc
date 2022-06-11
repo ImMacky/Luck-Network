@@ -1,10 +1,15 @@
-☘ Luck Network ☘ ⌬ 1.8 - 1.18 ⌬
-⛏ SkyMining ⛏ ❏ OneBlock ❏
+##  Luck Network 
 
-Welcome, to our GitHub and Changelog where we post all of our Weekly Updates Full Changelog to.
+'''
 
-IP: LuckOneBlock.minehut.gg - LuckMinez.minehut.gg
+Luck Network is a Server Network which provides SkyMining and OneBlock with considerably more features
 
-Discord: https://discord.gg/eRpvv9RGZY
+## Luck Network Github
 
-Store: https://lucknetwork-store.tebex.io/
+Our github is used for posting the Full Changelog of our Weekly Updates with all the minor tweaks and bug fixes
+
+## Links
+
+* link:https://discord.gg/eRpvv9RGZY[Discord]
+
+* link:https://lucknetwork-store.tebex.io/[Store]

@@ -1,7 +1,5 @@
 ##  Luck Network 
 
-'''
-
 Luck Network is a Server Network which provides SkyMining and OneBlock with considerably more features
 
 ## Luck Network Github

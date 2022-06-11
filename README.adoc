@@ -13,3 +13,5 @@ Our github is used for posting the Full Changelog of our Weekly Updates with all
 * link:https://discord.gg/eRpvv9RGZY[Discord]
 
 * link:https://lucknetwork-store.tebex.io/[Store]
+
+* link:https://github.com/ImMacky/Luck-Network/releases[Changelogs]

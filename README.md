@@ -4,7 +4,7 @@ Luck Network is developed by the players for the players.
 
 ## Luck Network Github
 
-Our Github's main purpose is for posting the Full Weekly Update Logs and letting everyone be aware of what little changes are going on with the Server using our #📃】github-changes channel in our Discord!
+Our Github's main purpose is for posting the Full Weekly Update Logs and letting everyone be aware of what little changes are going on with the Server using our #📃github-changes channel in our Discord!
 
 ## Links
 
